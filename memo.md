@@ -44,3 +44,26 @@
   - べき等の構成
 - Desired State Configuration (DSC)
 - Bicep(ARMの次期後継)
+- コードの依存関係
+  - コードの複製 
+  - 高い凝集度と低い結合度
+  - 個々のライフサイクル
+  - 安定したパーツ
+  - 独立したコードとコンポーネント
+- パッケージ
+  - nuget
+  - npm
+  - maven
+  - pypi
+  - docker
+- セマンティックバージョニング
+  - ビュー
+- Markdown
+  - CommonMark
+  - GFM
+- テレメトリ
+- DevSecOps
+- 脅威のモデリング
+- オープンソース
+  - https://opensource.org/
+  - ライセンス
